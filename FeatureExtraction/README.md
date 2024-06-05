@@ -1,6 +1,6 @@
 ## Input & Output
 
-### 1. Color Histogram & RGB Difference
+### 1. Color Histogram & RGB-difference
 
 Input: 
 - Raw videos
@@ -23,6 +23,6 @@ Output:
 pip install -r requirements.txt
 ```
 
-## Aknowledgements
+## Acknowledgements
 
 [AMT](https://doi.org/10.1016/j.eswa.2024.123640)
